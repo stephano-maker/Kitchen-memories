@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A nostalgic food blog about high school bread and pastry production and cookery experiences.">
+  <title>Welcome to My Kitchen Memories</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #fff8f0;
+      color: #333;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #a0522d;
+      font-size: 2.5em;
+      text-align: center;
+    }
+    p {
+      margin-bottom: 1.2em;
+    }
+    .signature {
+      margin-top: 40px;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Kitchen Memories 🍞</h1>
+  <p>Hi there!</p>
+  <p>Welcome to my little corner of the internet — a space I’ve created not to teach you recipes or cooking hacks, but to share something even more personal: my journey through bread and pastry production and cookery back in high school.</p>
+  <p>It wasn’t a glamorous culinary school or a professional kitchen. It was just a classroom, some flour-covered tables, a few old ovens, and a group of students (including me) trying our best not to burn the dough. But those moments? They meant everything.</p>
+  <p>I still remember the smell of freshly baked pandesal filling the room, the nervous laughter as we tried to perfect our cake icing, and the quiet pride I felt the first time a classmate said, “This actually tastes good!”<br>
+  We didn’t always get it right — there were collapsed cakes, overmixed batters, and a few minor kitchen disasters — but we learned. We laughed. We grew.</p>
+  <p>This blog is a collection of those memories.<br>
+  I’m not here to be a chef. I’m here to be a storyteller — someone who looks back on those flour-dusted days with gratitude and maybe even a little nostalgia. If you’ve ever found comfort in cooking, joy in baking, or connection over food, I think you’ll feel at home here too.</p>
+  <p>So whether you’re a home cook, a foodie, or someone who just loves reading about food experiences, I invite you to sit down, relax, and enjoy the stories.</p>
+  <p class="signature">With warmth,<br>
+  [Your Name]</p>
+</body>
+</html>
